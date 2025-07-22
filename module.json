@@ -36,6 +36,13 @@
             "lang": "pl",
             "name": "Polski",
             "path": "dist/languages/pl.json"
+        },
+    
+        {
+      "lang": "ru",
+      "name": "Русский",
+      "path": "dist/languages/ru.json"
+    
         }
     ],
     "relationships": {
