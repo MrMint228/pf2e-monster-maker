@@ -39,9 +39,9 @@
         },
     
         {
-      "lang": "ru",
-      "name": "Русский",
-      "path": "dist/languages/ru.json"
+            "lang": "ru",
+            "name": "Русский",
+            "path": "dist/languages/ru.json"
     
         }
     ],
